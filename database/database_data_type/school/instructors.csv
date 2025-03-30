@@ -1,0 +1,5 @@
+﻿attribute,type,size,null,default,primary
+eid,varchar,4,0,,1
+name,varchar,12,0,,0
+department,varchar,5,1,_null_,0
+ranker,varchar,10,1,_null_,0

@@ -1,0 +1,4 @@
+﻿attribute,type,size,null,default,primary
+sid,varchar,20,0,,1
+c_no,varchar,20,0,,0
+score,int,11,0,,0

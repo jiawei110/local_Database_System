@@ -1,0 +1,6 @@
+﻿attribute,type,size,null,default,primary
+sid,varchar,20,0,,1
+sname,varchar,50,0,,0
+birth,varchar,20,0,,0
+address,varchar,255,0,,0
+tel,varchar,20,0,,0

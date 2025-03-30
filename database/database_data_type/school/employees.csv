@@ -1,0 +1,4 @@
+﻿attribute,type,size,null,default,primary
+eid,varchar,4,0,,1
+name,varchar,12,1,_null_,0
+tel,varchar,15,1,_null_,0

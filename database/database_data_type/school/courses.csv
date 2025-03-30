@@ -1,0 +1,4 @@
+﻿attribute,type,size,null,default,primary
+c_no,varchar,5,0,,1
+title,varchar,30,0,,0
+credits,int,11,1,3,0

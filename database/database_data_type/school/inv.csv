@@ -1,0 +1,4 @@
+﻿attribute,type,size,null,default,primary
+sid,varchar,30,0,none,1
+num1,varchar,10,0,none,0
+num2,varchar,10,0,none,0

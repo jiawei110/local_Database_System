@@ -1,0 +1,7 @@
+﻿attribute,type,size,null,default,primary
+bid,varchar,20,0,,1
+bname,varchar,255,0,,0
+author,varchar,20,0,,0
+publisher,varchar,50,0,,0
+price,int,5,0,,0
+inventory,int,5,0,,0
